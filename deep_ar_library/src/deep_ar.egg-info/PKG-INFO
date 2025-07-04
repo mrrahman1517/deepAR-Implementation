@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: deep_ar
+Version: 0.1.0
+Summary: Composable DeepAR implementation
+Author: Muntasir Raihan Rahman
+Requires-Dist: torch>=2.0
